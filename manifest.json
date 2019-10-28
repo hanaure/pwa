@@ -27,8 +27,8 @@
           "sizes": "512x512",
           "type": "image/png"
         }],
-    "start_url": "index.html",
-    "display": "minimal-ui",
+    "start_url": "/",
+    "display": "fullscreen",
     "background_color": "#607d8b",
     "theme_color": "#607d8b",
     "gsm_sender_id": "103953800507",
