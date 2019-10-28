@@ -1,4 +1,4 @@
-let cacheName = 'github-v.1.0.1';
+let cacheName = 'github-v.1.0.2';
 let filesToCache = [
     './',
     'index.html'
