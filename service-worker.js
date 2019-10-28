@@ -1,7 +1,7 @@
 let cacheName = 'github-v.1.0.0';
 let filesToCache = [
-    './pwa',
-    'pwa/index.html'
+    './',
+    'index.html'
 ];
 
 self.addEventListener('install', function (e) {
